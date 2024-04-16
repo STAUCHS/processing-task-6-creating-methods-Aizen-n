@@ -1,0 +1,14 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ],
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\javin\\Downloads\\core.jar"
+        ],
+        "exclude": [
+            "lib/repl_core.jar"
+        ]
+    }
+}
